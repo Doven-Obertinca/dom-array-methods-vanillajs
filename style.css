@@ -3,7 +3,7 @@
 }
 
 body{
-    background: #b19191;
+    background: #193102;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
@@ -28,7 +28,7 @@ aside {
 
 button{
     cursor: pointer;
-    background-color: bisque;
+    background-color: rgb(229, 255, 196);
     border: solid 1px #111;
     border-radius: 5px;
     display: block;
@@ -52,6 +52,7 @@ h2{
     justify-content: space-between;
     font-weight: 300;
     margin:  0 20px;
+    color: #f4f4f4
 }
 
 h3{
@@ -69,4 +70,8 @@ h3{
     justify-content: space-between;
     font-size: 20px;
     margin-bottom: 10px;
+}
+
+h1{
+    color: #f4f4f4
 }
